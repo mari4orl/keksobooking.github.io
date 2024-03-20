@@ -1,1 +1,1 @@
-# keksobooking.github.io
+# Пет проект на чистом JS
